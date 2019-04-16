@@ -1,6 +1,3 @@
-const input = document.getElementsByTagName('html');
-
-
 function codeFind() {
     let keyCode = event.code;
     let doc = document.getElementById('eventCode');
